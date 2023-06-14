@@ -1,3 +1,5 @@
+## Steam Store EDA - Questions and Answers
+
 This is an exploratory data analysis (or EDA, for short) done on a public Steam dataset provided on Kaggle, with some simple questions and answers for the metrics present in the data about reviews, ownership, price, publishers and developers etc.
 
 The notebook was made on Visual Studio Code, utilizing the following languages and libraries:

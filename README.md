@@ -9,4 +9,4 @@ The notebook was made on Visual Studio Code, utilizing the following languages a
 
 Steam datasets were downloaded from Kaggle on the following link:
 
-- (Steam Store Games (Clean Dataset))[https://www.kaggle.com/datasets/nikdavis/steam-store-games]
+- [Steam Store Games (Clean Dataset)](https://www.kaggle.com/datasets/nikdavis/steam-store-games)
